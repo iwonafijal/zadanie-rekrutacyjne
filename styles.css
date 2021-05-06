@@ -207,7 +207,7 @@ footer {
 .input-select {
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url(/img/arrow.png);
+  background-image: url(./img/arrow.png);
   background-repeat: no-repeat;
   background-size: 14px 10px;
   background-position: center right 15px, center right 10px;
